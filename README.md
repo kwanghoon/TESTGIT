@@ -3,7 +3,7 @@
 - ... ...
 
 ## About
-- [a relative link](/TESTGIT/about/README.md)
+- [a relative link](/TESTGIT/about/)
 - ... ...
 
 ## Section 2
