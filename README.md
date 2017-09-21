@@ -3,7 +3,7 @@
 - ... ...
 
 ## About
-- <a href="/about/about.md">About</a>
+- <a href="/about/">About</a>
 - ... ...
 
 ## Section 2
