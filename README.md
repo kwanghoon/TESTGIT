@@ -3,7 +3,7 @@
 - ... ...
 
 ## About
-- <a href="/about/">About</a>
+- <a href="/TESTGIT/about/">About</a>
 - ... ...
 
 ## Section 2
