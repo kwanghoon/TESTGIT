@@ -3,7 +3,7 @@
 - ... ...
 
 ## About
-- <a href="/TESTGIT/about/">About</a>
+- [a relative link](/TESTGIT/about/README.md)
 - ... ...
 
 ## Section 2
